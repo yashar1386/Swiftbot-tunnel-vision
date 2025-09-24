@@ -11,7 +11,5 @@ Data Logging: The program automatically records key data points, including tunne
 
 Command-Line Interface: The program is controlled via a user-friendly command-line interface, using the SwiftBot's buttons for specific commands.
 
-Technologies Used
-Java: The primary programming language for the project.
 
 Object-Oriented Programming (OOP): The code is structured using OOP principles to ensure a modular, scalable, and maintainable design.
